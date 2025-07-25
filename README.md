@@ -12,7 +12,7 @@ Y por último, se realizó un proyecto práctico para predecir retrasos en vuelo
 ## Lo que se llevo a cabo en este curso fue:
 
 > * Validar modelos de machine learning con el método hold-out y validación cruzada.
-> * Evalar modelos de machine learning a partir de métricas de desempeño.
+> * Evaluar modelos de machine learning a partir de métricas de desempeño.
 > * Identificar cuáles son las métricas más apropiadas para cada tipo de problema.
 > * Realizar el balanceo de datos utilizando oversampling y undersampling.
 > * Aplicar un pipeline para validar modelos de forma correcta.
