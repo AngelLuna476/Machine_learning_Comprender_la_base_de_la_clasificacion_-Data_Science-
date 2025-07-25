@@ -30,7 +30,7 @@ Y por último, se realizó un proyecto práctico para predecir retrasos en vuelo
 ## Licencias y uso:
 
 - _Esta libreta está basada en contenido educativo de Alura Latam y Oracle Next Education, y se utiliza exclusivamente con fines de aprendizaje personal y sin fines comerciales._
-> * ##_Contenido educativo:## Los materiales aquí utilizados son propiedad de sus respectivos autores y están referenciados con fines pedagógicos._
+> * _##Contenido educativo:## Los materiales aquí utilizados son propiedad de sus respectivos autores y están referenciados con fines pedagógicos._
 
 > * ##_Derechos de autor:## Se respeta la propiedad intelectual de Alura Latam y Oracle Next Education. Si eres representante de estas instituciones y deseas que se modifique o retire contenido, por favor contáctame._
 
